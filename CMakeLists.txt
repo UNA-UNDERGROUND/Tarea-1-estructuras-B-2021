@@ -3,3 +3,4 @@ project(tarea-1 VERSION 0.1.0)
 
 add_subdirectory(programa1)
 add_subdirectory(programa2)
+add_subdirectory(programa3)
